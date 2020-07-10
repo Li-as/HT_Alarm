@@ -10,7 +10,6 @@ public class Alarm : MonoBehaviour
     private float _bottomLimit = 0.01f;
     private bool _isThiefInside;
 
-
     private void Update()
     {
         if (_isThiefInside)
